@@ -1,0 +1,39 @@
+
+.error-message p {
+  font-size: 14px;
+  color: gray;
+}
+
+.error-message .error-1 {
+  font-size: 50px;
+  color: #ff2d54;
+}
+
+.error-message .error-2 {
+  line-height: 60px;
+  font-size: 50px;
+
+  color: #ff2d54;
+}
+
+.error-message {
+  font-size: 30px;
+}
+
+.errorBtn {
+  border-radius: 30px;
+  padding: 10px 15px;
+  color: white;
+  margin-top: 10px;
+  background-color: #842079;
+  /* background-color: crimson; */
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+.errorBtn:hover {
+   box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  border-radius: 30px;
+  padding: 10px;
+  color: #842079;
+  /* color: crimson; */
+  background-color: white;
+}
